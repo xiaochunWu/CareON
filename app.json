@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/graph/graph",
+    "pages/index/index",
+    "pages/report/report",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "CareON",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
